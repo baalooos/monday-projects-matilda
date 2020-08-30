@@ -1,0 +1,9 @@
+[Core]
+Name = Matilda
+Module = Matilda
+
+[Python]
+Version = 2+
+
+[Documentation]
+Description = Monday project - Plugin for Matilda
